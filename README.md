@@ -8,6 +8,8 @@ A little exercise to get started with the specification phase of the software de
 
 [Marcos Huh](https://github.com/mh6355)
 
+[Ethan Zheng](https://github.com/ez2146)
+
 ## Stakeholders
 
 **Katie Carlson:** a busy college student
