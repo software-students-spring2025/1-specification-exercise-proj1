@@ -10,6 +10,8 @@ A little exercise to get started with the specification phase of the software de
 
 [Ethan Zheng](https://github.com/ez2146)
 
+[Tarini Mathur](https://github.com/tmathur2005)
+
 ## Stakeholders
 
 **Katie Carlson:** a busy college student
