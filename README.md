@@ -32,6 +32,7 @@ An app that helps people more easily meet their hydration goals and stay motivat
 
 ## User Requirements
 
+- As a user, I want to sign up and login to my account so I can start tracking my water intake.
 - As a user, I want to log my water intake so I can keep an accurate history of my hydration.
 - As a user, I want to undo an incorrectly logged water intake so I can correct mistakes and maintain accuracy in my logs.
 - As a user, I want to set daily or monthly water intake goals so I can aim for measurable progress and promote a healthier lifestyle.
@@ -39,6 +40,9 @@ An app that helps people more easily meet their hydration goals and stay motivat
 - As a user, I want to see my water intake progress in a fun and creative way so I feel more engaged in tracking my drinking habits.
 - As a user, I want to visualize my monthly water intake progress easily so I can track long-term hydration goals.
 - As a user, I want to see my water intake through a progress bar so I can compare my current intake against my goal.
+- As a user, I want to be able to change the language on the app so I can use it in my preferred language.
+- As a fitness enthusiast, I want to synchronize this app with my smart watch so I can keep track of my health and progress in one place.
+- As a user, I want to be able to backup my progress and history so I can keep track of my progress on other devices.
 
 ## Activity Diagrams
 
