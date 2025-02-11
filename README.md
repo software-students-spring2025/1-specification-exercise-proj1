@@ -58,4 +58,4 @@ As a user, I want to log my water intake so I can keep an accurate history of my
 
 ## Clickable Prototype
 
-https://www.figma.com/proto/2nDZyKj4CPKp4AS4j42SoQ/proj1---Sip-%26-Sprout?node-id=0-1&t=xPOg0GwAL4tzdbAH-1
+[LINK to Prototype!](https://www.figma.com/proto/2nDZyKj4CPKp4AS4j42SoQ/proj1---Sip-%26-Sprout?node-id=0-1&t=xPOg0GwAL4tzdbAH-1)
