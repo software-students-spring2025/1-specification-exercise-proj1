@@ -5,6 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 [Harini Buddaluru](https://github.com/peanutoil)
+
 [Marcos Huh](https://github.com/mh6355)
 
 ## Stakeholders
