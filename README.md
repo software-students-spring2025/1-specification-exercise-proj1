@@ -49,10 +49,12 @@ An app that helps people more easily meet their hydration goals and stay motivat
 ## Activity Diagrams
 
 **User Story 1:**
+
 As a user, I want to sign up and login to my account so I can start tracking my water intake.
 ![Login/Register UML Activity Diagram](/UML_diagrams/uml1_login_register.png)
 
 **User Story 2:**
+
 As a user, I want to log my water intake so I can keep an accurate history of my hydration.
 ![Log Water Intake UML Activity Diagram](/UML_diagrams/uml2_water_intake.png)
 
